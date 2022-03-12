@@ -1,9 +1,5 @@
-# 3. Hafta Ödevi
+# angular-9-registration-login-example
 
-Bir web uygulamasında kullanıcı kaydı ve kullanıcı girişi demosu hazırlayınız. Reactive form yaklaşımı kullanınız ve validasyonlarla 
-uygulamanın güvenilirliğini sağlayınız. Hata mesajları ile kullanıcı dostu bir tasarım kurgulayınız. Kullanıcı kayıtlarını bir json dosyasına
-yazdırıp, kullanıcı girişi yapılırken bu json dosyasından kontrol sağlayınız. Kullanıcı girişi yapıldıktan sonra herhangi bir içerik gösteriniz.
-Kullanıcı girişi yapılmadan uygulama da ki içerikler görüntülenmemlidir. 
-(Kullanıcı girişi yapıldıktan sonra, Local Storage da kullanıcı bilgileri saklanabilir)
+Angular 9 - User Registration and Login Example
 
-https://github.com/typicode/json-server api uygulama için kullanılabilir.
+Full tutorial with example available at https://jasonwatmore.com/post/2020/04/28/angular-9-user-registration-and-login-example-tutorial
